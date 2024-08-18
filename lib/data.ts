@@ -50,10 +50,10 @@ export const experiencesData = [
   //   date: "2022 - 2023",
   // },
   {
-    title: "Software Survey Consultant",
+    title: "GIS Engineer",
     location: "Bangalore",
     description:
-      "I currently work as software consultant for SSLR, Goverment of Karnataka. The work is python scripting but for the majority its Non IT.",
+      "Iam currently working as GIS Engineer for SSLR, Government of Karnataka.",
     icon: React.createElement(CgWorkAlt),
     date: "2023 - present",
   },

@@ -63,13 +63,13 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-bold">Hello, I'm Yogesh.</span> I'm {" "}
-        <span className="font-bold">interesed in full stack development</span>
+        <span className="font-bold">interested in full stack development</span>
         {" "}and {" "}
         <span className="font-bold">Cybersecurity.</span> 
         <br />
-        <span className="italic">I enjoy building web applications and taking them down </span>
+        {/*<span className="italic">I enjoy building web applications and taking them down </span>
         <span className="font-bold italic">legally </span>
-        <span className="italic">ofcourse.</span>
+        <span className="italic">ofcourse.</span>*/}
       </motion.h1>
 
       <motion.div
@@ -94,7 +94,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="/New-Resume.pdf"
+          href="/public/resume-dev.pdf"
           download
         >
           Download CV{" "}
