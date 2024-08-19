@@ -53,7 +53,7 @@ export const experiencesData = [
     title: "Software Survey Consultant",
     location: "Bangalore",
     description:
-      "I currently work as software consultant for SSLR, Goverment of Karnataka. The work is python scripting but for the majority its Non IT.",
+      "I currently work as software consultant for SSLR, Government of Karnataka. The work is python scripting but for the majority its Non IT.",
     icon: React.createElement(CgWorkAlt),
     date: "2023 - present",
   },
